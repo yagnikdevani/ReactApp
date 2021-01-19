@@ -12,7 +12,7 @@ const Books = [
         name:"Yagnik",
         age:10,
         bookImg:"https://images-na.ssl-images-amazon.com/images/I/510M0zUbnxL._SX404_BO1,204,203,200_.jpg",
-        description:"Hey Yagnik it's working "
+        description:"Hey Yagnik it's working and updated for test deployment with git"
     }];
 const Book = () =>{
     return(
